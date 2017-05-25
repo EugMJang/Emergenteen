@@ -1,0 +1,28 @@
+body {
+    background-color: #5CDB95;
+    color: #05386B;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+li{
+    float: left;
+    background-color: #05386B
+}
+li a{
+    display: block;
+    padding: 8px;
+    color: #5CDB95;
+    text-decoration: none;
+}
+li a:hover{
+    background-color: #5CDB95;
+    color: #053868;
+    text-decoration: none;
+}
+h2 {
+    clear:left;
+    padding-top: 8px
+}
