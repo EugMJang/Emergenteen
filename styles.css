@@ -9,17 +9,16 @@ ul {
 }
 li{
     float: left;
-    background-color: #05386B
 }
 li a{
     display: block;
     padding: 8px;
-    color: #5CDB95;
+    color: #05386B;
     text-decoration: none;
 }
 li a:hover{
-    background-color: #5CDB95;
-    color: #053868;
+    background-color: #053868;
+    color: #5CDB95;
     text-decoration: none;
 }
 h2 {
