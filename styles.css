@@ -1,6 +1,7 @@
 body {
     background-color: #5CDB95;
     color: #05386B;
+
 }
 ul.Horizontal {
     list-style-type: none;
@@ -29,4 +30,8 @@ h2 {
 
 h1.title{
     padding-bottom: 10px
+}
+
+.content{
+    font-size: 18px
 }
