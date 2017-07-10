@@ -15,11 +15,12 @@ li.Horizontal{
 li a.Horizontal{
     display: block;
     padding: 8px;
-    color: #05386B;
+    background-color: #053868;
+    color: #5CDB95;
     text-decoration: none;
 }
 li a.Horizontal:hover{
-    background-color: #053868;
+    background-color: #194B7B;
     color: #5CDB95;
     text-decoration: none;
 }
