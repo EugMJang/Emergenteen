@@ -6,6 +6,7 @@ ul.Horizontal {
     list-style-type: none;
     margin: 0;
     padding: 0;
+    padding-bottom: 20px;
 }
 li.Horizontal{
     float: left;
@@ -26,3 +27,6 @@ h2 {
     padding-top: 8px
 }
 
+h1.title{
+    padding-bottom: 10px
+}
