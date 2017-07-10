@@ -29,19 +29,16 @@ h2 {
     padding-top: 8px
 }
 
-h1.title{
-    padding-bottom: 10px
+h1.Title{
+    font-size: 50px;
 }
 
 .content{
     font-size: 18px
 }
 
-ul.content{
-    list-style-type: circle
-}
-
 li.list_items{
+    list-style-type: circle;
     padding-top: 8px;
     padding-bottom: 8px;
 }
